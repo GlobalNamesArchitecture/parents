@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "parents"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{gem tries to optimize working with large-scale hiearchical data sets in editing environment }
+    gem.description = %Q{gem tries to optimize working with large-scale hiearchical data sets in editing environment }
     gem.email = "dshorthouse@eol.org"
     gem.homepage = "http://github.com/GlobalNamesArchitecture/parents"
     gem.authors = ["David Shorthouse", "Dmitry Mozzherin"]
